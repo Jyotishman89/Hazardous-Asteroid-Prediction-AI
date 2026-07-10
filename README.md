@@ -51,13 +51,13 @@ Ensure you have Python 3.8+ installed on your local machine along with Jupyter N
 
 ### 1. Clone the Repository
 ```bash
-git clone git@github.com:your-username/hazardous-asteroid-prediction.git
+git clone git@github.com:your-username/Hazardous-Asteroid-Prediction-AI.git
 ```
 ---
 
 ### 2. Navigate to the Directory
 ```bash
-cd hazardous-asteroid-prediction
+cd Hazardous-Asteroid-Prediction-AI
 ```
 ---
 
@@ -90,4 +90,4 @@ The final cell of the notebook generates a user interface. To test a Hazardous c
 ---
 
 ## Acknowledgments
-* Data sourced from NASA's Planetary Defense Coordination Office via the NEO Earth 
+* Data sourced from Kaggle's NASA NEO (Near-Earth Object) Dataset.
