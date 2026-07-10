@@ -32,8 +32,7 @@ This project was developed in a single, streamlined Jupyter Notebook following a
 ```text
 ├── .gitignore
 ├── README.md
-├── hazardous_asteroid_prediction_final.ipynb
-└── neo_data.csv
+├── Sentinel.ipynb
 ```
 ---
 
@@ -94,4 +93,3 @@ The final cell of the notebook generates a user interface. To test a Hazardous c
 * Data sourced from NASA's Planetary Defense Coordination Office via the NEO Earth Close Approaches dataset.
 ### Prerequisites
 Ensure you have Python 3.8+ installed on your local machine along with Jupyter Notebook. You will also need Git to clone the repository.
-### 1. Clone the Reposi
