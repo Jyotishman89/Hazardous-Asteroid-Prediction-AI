@@ -51,7 +51,7 @@ Ensure you have Python 3.8+ installed on your local machine along with Jupyter N
 
 ### 1. Clone the Repository
 ```bash
-git clone git@github.com:your-username/Hazardous-Asteroid-Prediction-AI.git
+git clone git@github.com:Jyotishman89/Hazardous-Asteroid-Prediction-AI.git
 ```
 ---
 
