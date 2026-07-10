@@ -90,6 +90,4 @@ The final cell of the notebook generates a user interface. To test a Hazardous c
 ---
 
 ## Acknowledgments
-* Data sourced from NASA's Planetary Defense Coordination Office via the NEO Earth Close Approaches dataset.
-### Prerequisites
-Ensure you have Python 3.8+ installed on your local machine along with Jupyter Notebook. You will also need Git to clone the repository.
+* Data sourced from NASA's Planetary Defense Coordination Office via the NEO Earth 
