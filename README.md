@@ -1,4 +1,4 @@
-# Project Sentinel: Hazardous Asteroid Prediction AI ☄️
+# Project Sentinel: Hazardous Asteroid Prediction AI 
 
 ## Table of Contents
 * [Overview](#overview)
