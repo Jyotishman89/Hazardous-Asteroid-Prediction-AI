@@ -74,14 +74,14 @@ jupyter notebook
 ---
 
 ### 5. Execute the Pipeline
-1. Once the Jupyter interface opens in your web browser, locate and click on the hazardous_asteroid_prediction_final.ipynb file.
+1. Once the Jupyter interface opens in your web browser, locate and click on the Sentinel.ipynb file.
 2. In the top navigation menu, click Cell (or Run, depending on your Jupyter version) and select Run All to execute the machine learning pipeline sequentially.
 3. Scroll down to the final cell (Phase 6) to use the interactive Hazardous Asteroid Prediction UI.
 
 ---
 
 ## Using the Interactive Predictor
-The final cell of the notebook generates a user interface. To test a Hazardous classification (the "City-Killer" scenario), input the following parameters:
+The final cell of the notebook generates a user interface. To test a Hazardous classification (the "City-Killer" scenario), input the following parameters (as an example):
 * Absolute Magnitude (H): 16.10
 * Min Diameter (km): 1.60
 * Relative Velocity (km/s): 22.5
