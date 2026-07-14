@@ -1,4 +1,4 @@
-# Project Sentinel: Hazardous Asteroid Prediction AI 
+# Project Sentinel: NEO Hazard Model
 
 ## Table of Contents
 * [Overview](#overview)
@@ -51,13 +51,13 @@ Ensure you have Python 3.8+ installed on your local machine along with Jupyter N
 
 ### 1. Clone the Repository
 ```bash
-git clone git@github.com:Jyotishman89/Hazardous-Asteroid-Prediction-AI.git
+git clone git@github.com:Jyotishman89/NEO-Hazard-Model.git
 ```
 ---
 
 ### 2. Navigate to the Directory
 ```bash
-cd Hazardous-Asteroid-Prediction-AI
+cd NEO-Hazard-Model
 ```
 ---
 
